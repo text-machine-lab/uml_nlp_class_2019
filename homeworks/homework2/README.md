@@ -6,4 +6,4 @@ Submit the homework as using the `submit` utility as:
 
 The second homework is due __02.18.2020 11:59 PM__.
 
-To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2019/assignments.
+To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2020/assignments.
